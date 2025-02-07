@@ -1,0 +1,6 @@
+Information about COMP 2156 Devops course
+COMP 2156 is a Devops course.
+This cousre is being offered twice in a week.
+We have the class lecture and the pratical
+The lecure is on mondays of every week
+The lab class is on Wednesday weekly
