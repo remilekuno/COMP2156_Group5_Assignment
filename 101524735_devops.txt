@@ -1,7 +1,6 @@
 Information about COMP 2156 Devops course
-COMP 2156 is a Devops course.
-This cousre is being offered twice in a week.
-We have the class lecture and the pratical
-The lecure is on mondays of every week
+COMP2156 is a Devops course part of the mandatory course for T191 students
+The online lecture is schedule for mondays weekly while the lab is Wednesday weekly.
+We have the class lecture and the pratical.
 The lab class is on Wednesday weekly
 The intructor is very helpful, he always provide detail Information about the Topics
