@@ -1,0 +1,10 @@
+COMP2156 - DevOps for System Administration
+Course Description
+
+This course introduces students to the core principles, methodologies, and best practices of DevOps in a professional environment. 
+Students will explore various DevOps implementations, analyze their impact on productivity, and gain hands-on experience using industry-standard tools.
+
+Key topics include automation, version control, and configuration management, with a focus on solving complex business challenges through efficient DevOps 
+workflows. Students will also learn about data formats such as Extensible Markup Language (XML), JavaScript Object Notation (JSON), YAML Ain't Markup Language 
+(YAML), and Yet Another Next Generation (YANG), and their role in network automation. Additionally, the course covers essential DevOps tools, including Ansible 
+and Git, to equip students with practical skills for modern IT operations.
