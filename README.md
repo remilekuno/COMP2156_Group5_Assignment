@@ -2,8 +2,8 @@
 ## Group Members
 - **Leader:** 
 - **Member 2:** Dhanushigan Thavayogarajah [GitHub](https://github.com/remilekuno/COMP2156_Group5_Assignment.git)
-
-## Project Description
+- **Member 3:** Claire Barber [GitHub](https://github.com/barberclaire/COMP2156)
+## Project Dscription
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
 
