@@ -5,4 +5,4 @@ Create solution to complex business problem by adhering to the core responsibili
 Students will learn about data formats and types, including Extensible Markup Language (XML),
 JavaScript Object Notation (JSON), Yaml Ain't Markup Language (YAML), and Yet Another Next
 Generation (YANG), and their value in network automation, along with DevOps tools such as Ansible
-and Git
+and Git. 
