@@ -21,7 +21,7 @@ This repository hosts the group assignment for the **COMP2156 DevOps** course, f
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/remilekuno/COMP2156_Group5_Assignment.git
    ```
 2. **Switch to your branch:**  
    ```bash
