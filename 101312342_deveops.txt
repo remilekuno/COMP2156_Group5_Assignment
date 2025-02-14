@@ -1,1 +1,7 @@
 Deveops course reaches you on how to combine software developments with IT operations
+The course covers:
+- Version control with Git and GitHub.
+- Containerization using Docker.
+- Infrastructure as Code (IaC) with tools like Terraform.
+- Continuous integration and deployment using GitHub Actions.
+- Cloud computing and hosting services.
