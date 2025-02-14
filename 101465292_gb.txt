@@ -1,30 +1,10 @@
-$ git push
-Enumerating objects: 5, done.
-Counting objects: 100% (5/5), done.
-Delta compression using up to 16 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 289 bytes | 289.00 KiB/s, done.
-Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
-remote: Resolving deltas: 100% (1/1), completed with 1 local object.
-To https://github.com/remilekuno/COMP2156_Group5_Assignment.git
-   d3a77fe..104d74a  101465292-Churchill -> 101465292-Churchill
-$ git push
-Enumerating objects: 5, done.
-Counting objects: 100% (5/5), done.
-Delta compression using up to 16 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 289 bytes | 289.00 KiB/s, done.
-Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
-remote: Resolving deltas: 100% (1/1), completed with 1 local object.
-To https://github.com/remilekuno/COMP2156_Group5_Assignment.git
-   d3a77fe..104d74a  101465292-Churchill -> 101465292-Churchill
-$ git push
-Enumerating objects: 5, done.
-Counting objects: 100% (5/5), done.
-Delta compression using up to 16 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 289 bytes | 289.00 KiB/s, done.
-Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
-remote: Resolving deltas: 100% (1/1), completed with 1 local object.
-To https://github.com/remilekuno/COMP2156_Group5_Assignment.git
-   d3a77fe..104d74a  101465292-Churchill -> 101465292-Churchill
+George Brown College (GBC) is a leading public college in Toronto, Canada,
+known for its career-focused education and strong industry connections. 
+Established in 1967, GBC offers a variety of diploma, degree, and 
+certificate programs in business, technology, health sciences, hospitality, 
+and the arts. The college has three main campuses: Casa Loma, St. James, 
+and Waterfront. With a strong emphasis on experiential learning, students 
+gain hands-on experience through co-op programs, internships, and industry 
+partnerships. GBC’s diverse student body and supportive learning environment 
+make it a top choice for local and international students seeking practical, 
+job-ready skills.
