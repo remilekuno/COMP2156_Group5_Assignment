@@ -3,10 +3,10 @@
 ## 👥 Group Members
 
 - **👑 Leader:**    Remilekun Olukotun           101524735 - [GitHub](https://github.com/remilekuno/COMP2156_Group5_Assignment/tree/101524735-Remilekun)
-- **👤 Members:**   Dhanushigan Thavayogarajah - 101474208 [GitHub](https://github.com/remilekuno/COMP2156_Group5_Assignment/tree/101474208-Dhanushigan)
-- **👤 Members:**   Claire Barber              - 101249921 - [GitHub](https://github.com/remilekuno/COMP2156_Group5_Assignment/tree/101249921-Claire)
-- **👤 Members:**   Churchill Enyagam -          101465292  [GitHub](https://github.com/remilekuno/COMP2156_Group5_Assignment/tree/101465292-Churchill)
-- **👤 Members:**   Adenola -                    101312342  [GitHub](https://github.com/remilekuno/COMP2156_Group5_Assignment/tree/101312342-Adenola)
+- **👤 Members:**   Dhanushigan Thavayogarajah - 101474208   [GitHub](https://github.com/remilekuno/COMP2156_Group5_Assignment/tree/101474208-Dhanushigan)
+- **👤 Members:**   Claire Barber              - 101249921 -  [GitHub](https://github.com/remilekuno/COMP2156_Group5_Assignment/tree/101249921-Claire)
+- **👤 Members:**   Churchill Enyagam -          101465292   [GitHub](https://github.com/remilekuno/COMP2156_Group5_Assignment/tree/101465292-Churchill)
+- **👤 Members:**   Adenola -                    101312342   [GitHub](https://github.com/remilekuno/COMP2156_Group5_Assignment/tree/101312342-Adenola)
 ---
 
 ## 📌 Project Description
