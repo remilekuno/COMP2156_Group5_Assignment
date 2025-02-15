@@ -1,0 +1,7 @@
+it enables faster software delivery cycles, improves collaboration between devlopment and operation terms
+Key benefits of integrating DevOps into SDLC:
+1. **Faster Development & Deployment** – Automated CI/CD pipelines speed up software releases.
+2. **Improved Collaboration** – DevOps fosters teamwork between developers, IT operations, and QA teams.
+3. **Better Code Quality** – Automated testing ensures that code is reliable and bug-free before deployment.
+4. **Scalability & Reliability** – Cloud-based infrastructure and monitoring improve system performance and uptime.
+5. **Security & Compliance** – DevSecOps integrates security into the development pipeline, ensuring secure applications.
